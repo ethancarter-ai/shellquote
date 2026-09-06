@@ -28,3 +28,5 @@ include = ["shellquote*"]
 
 [project.optional-dependencies]
 dev = ["pytest"]
+[project.urls]
+Repository = "https://github.com/ethancarter-ai/shellquote"

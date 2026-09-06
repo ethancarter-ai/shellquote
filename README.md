@@ -66,6 +66,9 @@ shellquote/
 
 `shell`, `quoting`, `cli`, `security`, `devtools`, `python`, `posix`
 
+Source: https://github.com/ethancarter-ai/shellquote
+
 ## License
 
 MIT
+
