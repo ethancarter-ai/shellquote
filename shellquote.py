@@ -4,7 +4,7 @@ import argparse
 import json
 import shlex
 import sys
-from typing import Iterable, List, Optional, Sequence, Tuple, Union
+from typing import Iterable, List, Optional, Sequence, Tuple
 
 __all__ = [
     "quote",

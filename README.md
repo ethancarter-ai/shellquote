@@ -39,7 +39,7 @@ shellquote quote 'hello world'
 # -> 'hello world'
 
 # Detect quoting
-shellquote is-quoted "already 'quoted' text"
+shellquote is-quoted "'already quoted'"
 # -> true
 
 # Normalize
