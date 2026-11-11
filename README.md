@@ -53,13 +53,17 @@ shellquote validate foo bar 'baz qux'
 
 ## Project Structure
 
-```
-shellquote/
-├── README.md
-├── LICENSE
-├── pyproject.toml
+```text
+├── .github/
+│   └── workflows/
+│       └── tests.yml
 ├── .gitignore
-└── shellquote.py
+├── LICENSE
+├── README.md
+├── pyproject.toml
+├── shellquote.py
+└── tests/
+    └── test_shellquote.py
 ```
 
 ## Tags / Keywords
